@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Akansha Pathak - aka Akku Pathak 👋
 
-## I'm a Developer and Teacher!
+## I'm a Developer
 - 🔭 I’m currently working on a [Python API CODE][python-api]!
 - 🌱 I’m currently learning everything 🤣
 - 💬 Talk is cheap. Show me the code. 🤣🤣
