@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Akansha Pathak - aka Akku Pathak 👋
+### Hi there, I'm Akansha Pathak  👋
 
 ## I'm a Developer
 - 🔭 I’m currently working on a [Python API CODE][python-api]!
